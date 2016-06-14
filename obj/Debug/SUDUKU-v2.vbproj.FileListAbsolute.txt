@@ -1,0 +1,284 @@
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe.config
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\bin\Debug\SUDUKU-v2.pdb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\bin\Debug\SUDUKU-v2.xml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\Game.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\MainWindow.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\Game.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\MainWindow.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\Application.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\SUDUKU-v2_MarkupCompile.cache
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\SUDUKU-v2.g.resources
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\SUDUKU_v2.Resources.resources
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\SUDUKU-v2.vbproj.GenerateResource.Cache
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\SUDUKU-v2.exe
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\SUDUKU-v2.xml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\SUDUKU-v2.pdb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\help.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\help.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\bin\Debug\app_data\sudukuDB.accdb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\SUDUKU-v2_Content.g.vb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe.config
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\SUDUKU-v2.exe
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\SUDUKU-v2.xml
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\SUDUKU-v2.pdb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\bin\Debug\app_data\sudukuDB.accdb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\bin\Debug\SUDUKU-v2.pdb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\bin\Debug\SUDUKU-v2.xml
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\Game.baml
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\help.baml
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\MainWindow.baml
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\Game.g.vb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\help.g.vb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\MainWindow.g.vb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\Application.g.vb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\SUDUKU-v2_Content.g.vb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\SUDUKU-v2_MarkupCompile.cache
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\SUDUKU-v2.g.resources
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\SUDUKU_v2.Resources.resources
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v2\SUDUKU-v2\obj\Debug\SUDUKU-v2.vbproj.GenerateResource.Cache
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v4\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe.config
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v4\SUDUKU-v2\obj\Debug\SUDUKU-v2.exe
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v4\SUDUKU-v2\obj\Debug\SUDUKU-v2.xml
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v4\SUDUKU-v2\obj\Debug\SUDUKU-v2.pdb
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v4\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v4\SUDUKU-v2\bin\Debug\SUDUKU-v2.pdb
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v4\SUDUKU-v2\bin\Debug\SUDUKU-v2.xml
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v4\SUDUKU-v2\obj\Debug\Game.baml
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v4\SUDUKU-v2\obj\Debug\help.baml
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v4\SUDUKU-v2\obj\Debug\MainWindow.baml
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v4\SUDUKU-v2\obj\Debug\Game.g.vb
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v4\SUDUKU-v2\obj\Debug\help.g.vb
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v4\SUDUKU-v2\obj\Debug\MainWindow.g.vb
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v4\SUDUKU-v2\obj\Debug\Application.g.vb
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v4\SUDUKU-v2\obj\Debug\SUDUKU-v2_MarkupCompile.cache
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v4\SUDUKU-v2\obj\Debug\SUDUKU-v2.g.resources
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v4\SUDUKU-v2\obj\Debug\SUDUKU_v2.Resources.resources
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v4\SUDUKU-v2\obj\Debug\SUDUKU-v2.vbproj.GenerateResource.Cache
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v4\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe.config
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v4\SUDUKU-v2\obj\Debug\SUDUKU-v2.exe
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v4\SUDUKU-v2\obj\Debug\SUDUKU-v2.xml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v4\SUDUKU-v2\obj\Debug\SUDUKU-v2.pdb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v4\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v4\SUDUKU-v2\bin\Debug\SUDUKU-v2.pdb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v4\SUDUKU-v2\bin\Debug\SUDUKU-v2.xml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v4\SUDUKU-v2\obj\Debug\Game.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v4\SUDUKU-v2\obj\Debug\help.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v4\SUDUKU-v2\obj\Debug\MainWindow.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v4\SUDUKU-v2\obj\Debug\Game.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v4\SUDUKU-v2\obj\Debug\help.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v4\SUDUKU-v2\obj\Debug\MainWindow.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v4\SUDUKU-v2\obj\Debug\Application.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v4\SUDUKU-v2\obj\Debug\SUDUKU-v2_MarkupCompile.cache
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v4\SUDUKU-v2\obj\Debug\SUDUKU-v2.g.resources
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v4\SUDUKU-v2\obj\Debug\SUDUKU_v2.Resources.resources
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v4\SUDUKU-v2\obj\Debug\SUDUKU-v2.vbproj.GenerateResource.Cache
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v6\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe.config
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v6\SUDUKU-v2\obj\Debug\SUDUKU-v2.exe
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v6\SUDUKU-v2\obj\Debug\SUDUKU-v2.xml
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v6\SUDUKU-v2\obj\Debug\SUDUKU-v2.pdb
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v6\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v6\SUDUKU-v2\bin\Debug\SUDUKU-v2.pdb
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v6\SUDUKU-v2\bin\Debug\SUDUKU-v2.xml
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v6\SUDUKU-v2\obj\Debug\Game.baml
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v6\SUDUKU-v2\obj\Debug\help.baml
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v6\SUDUKU-v2\obj\Debug\MainWindow.baml
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v6\SUDUKU-v2\obj\Debug\Game.g.vb
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v6\SUDUKU-v2\obj\Debug\help.g.vb
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v6\SUDUKU-v2\obj\Debug\MainWindow.g.vb
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v6\SUDUKU-v2\obj\Debug\Application.g.vb
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v6\SUDUKU-v2\obj\Debug\SUDUKU-v2_MarkupCompile.cache
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v6\SUDUKU-v2\obj\Debug\SUDUKU-v2.g.resources
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v6\SUDUKU-v2\obj\Debug\SUDUKU_v2.Resources.resources
+C:\Users\Tzachi\Google Drive\[מבוא לתכנות]\[פרויקט]\SUDUKU-v6\SUDUKU-v2\obj\Debug\SUDUKU-v2.vbproj.GenerateResource.Cache
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe.config
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\SUDUKU-v2.exe
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\SUDUKU-v2.xml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\SUDUKU-v2.pdb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\bin\Debug\SUDUKU-v2.pdb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\bin\Debug\SUDUKU-v2.xml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\Game.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\help.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\MainWindow.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\Game.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\help.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\MainWindow.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\Application.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\SUDUKU-v2_MarkupCompile.cache
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\SUDUKU-v2.g.resources
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\SUDUKU_v2.Resources.resources
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\SUDUKU-v2.vbproj.GenerateResource.Cache
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe.config
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\SUDUKU-v2.exe
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\SUDUKU-v2.xml
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\SUDUKU-v2.pdb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\bin\Debug\SUDUKU-v2.pdb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\bin\Debug\SUDUKU-v2.xml
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\Game.baml
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\help.baml
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\MainWindow.baml
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\Game.g.vb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\help.g.vb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\MainWindow.g.vb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\Application.g.vb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\SUDUKU-v2_MarkupCompile.cache
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\SUDUKU-v2.g.resources
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\SUDUKU_v2.Resources.resources
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v7\SUDUKU-v2\obj\Debug\SUDUKU-v2.vbproj.GenerateResource.Cache
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe.config
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8\SUDUKU-v2\obj\Debug\SUDUKU-v2.exe
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8\SUDUKU-v2\obj\Debug\SUDUKU-v2.xml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8\SUDUKU-v2\obj\Debug\SUDUKU-v2.pdb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8\SUDUKU-v2\bin\Debug\SUDUKU-v2.pdb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8\SUDUKU-v2\bin\Debug\SUDUKU-v2.xml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8\SUDUKU-v2\obj\Debug\Game.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8\SUDUKU-v2\obj\Debug\help.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8\SUDUKU-v2\obj\Debug\MainWindow.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8\SUDUKU-v2\obj\Debug\Game.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8\SUDUKU-v2\obj\Debug\help.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8\SUDUKU-v2\obj\Debug\MainWindow.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8\SUDUKU-v2\obj\Debug\Application.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8\SUDUKU-v2\obj\Debug\SUDUKU-v2_MarkupCompile.cache
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8\SUDUKU-v2\obj\Debug\SUDUKU-v2.g.resources
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8\SUDUKU-v2\obj\Debug\SUDUKU_v2.Resources.resources
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8\SUDUKU-v2\obj\Debug\SUDUKU-v2.vbproj.GenerateResource.Cache
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe.config
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8\SUDUKU-v2\obj\Debug\SUDUKU-v2.exe
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8\SUDUKU-v2\obj\Debug\SUDUKU-v2.xml
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8\SUDUKU-v2\obj\Debug\SUDUKU-v2.pdb
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8\SUDUKU-v2\bin\Debug\SUDUKU-v2.pdb
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8\SUDUKU-v2\bin\Debug\SUDUKU-v2.xml
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8\SUDUKU-v2\obj\Debug\Game.baml
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8\SUDUKU-v2\obj\Debug\help.baml
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8\SUDUKU-v2\obj\Debug\MainWindow.baml
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8\SUDUKU-v2\obj\Debug\Game.g.vb
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8\SUDUKU-v2\obj\Debug\help.g.vb
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8\SUDUKU-v2\obj\Debug\MainWindow.g.vb
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8\SUDUKU-v2\obj\Debug\Application.g.vb
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8\SUDUKU-v2\obj\Debug\SUDUKU-v2_MarkupCompile.cache
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8\SUDUKU-v2\obj\Debug\SUDUKU-v2.g.resources
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8\SUDUKU-v2\obj\Debug\SUDUKU_v2.Resources.resources
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8\SUDUKU-v2\obj\Debug\SUDUKU-v2.vbproj.GenerateResource.Cache
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8.0\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe.config
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\SUDUKU-v2.exe
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\SUDUKU-v2.xml
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\SUDUKU-v2.pdb
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8.0\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8.0\SUDUKU-v2\bin\Debug\SUDUKU-v2.pdb
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8.0\SUDUKU-v2\bin\Debug\SUDUKU-v2.xml
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\Game.baml
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\help.baml
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\MainWindow.baml
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\Game.g.vb
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\help.g.vb
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\MainWindow.g.vb
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\Application.g.vb
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\SUDUKU-v2_MarkupCompile.cache
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\SUDUKU-v2.g.resources
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\SUDUKU_v2.Resources.resources
+C:\Users\Tzachi\Google Drive\[שנה א]\[מבוא לתכנות]\[פרויקט]\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\SUDUKU-v2.vbproj.GenerateResource.Cache
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe.config
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\SUDUKU-v2.exe
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\SUDUKU-v2.xml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\SUDUKU-v2.pdb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\bin\Debug\SUDUKU-v2.pdb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\bin\Debug\SUDUKU-v2.xml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\Game.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\help.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\MainWindow.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\Game.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\help.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\MainWindow.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\Application.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\SUDUKU-v2_MarkupCompile.cache
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\SUDUKU-v2.g.resources
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\SUDUKU_v2.Resources.resources
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\SUDUKU-v2.vbproj.GenerateResource.Cache
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\halloffame.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v8.0\SUDUKU-v2\obj\Debug\halloffame.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe.config
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\obj\Debug\SUDUKU-v2.exe
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\obj\Debug\SUDUKU-v2.xml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\obj\Debug\SUDUKU-v2.pdb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\bin\Debug\SUDUKU-v2.pdb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\bin\Debug\SUDUKU-v2.xml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\obj\Debug\Game.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\obj\Debug\halloffame.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\obj\Debug\help.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\obj\Debug\MainWindow.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\obj\Debug\Game.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\obj\Debug\halloffame.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\obj\Debug\help.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\obj\Debug\MainWindow.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\obj\Debug\Application.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\obj\Debug\SUDUKU-v2_MarkupCompile.cache
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\obj\Debug\SUDUKU-v2.g.resources
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\obj\Debug\SUDUKU_v2.Resources.resources
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v10\SUDUKU-v2\obj\Debug\SUDUKU-v2.vbproj.GenerateResource.Cache
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe.config
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\obj\Debug\SUDUKU-v2.exe
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\obj\Debug\SUDUKU-v2.xml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\obj\Debug\SUDUKU-v2.pdb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\bin\Debug\SUDUKU-v2.pdb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\bin\Debug\SUDUKU-v2.xml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\obj\Debug\Game.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\obj\Debug\halloffame.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\obj\Debug\help.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\obj\Debug\MainWindow.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\obj\Debug\Game.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\obj\Debug\halloffame.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\obj\Debug\help.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\obj\Debug\MainWindow.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\obj\Debug\Application.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\obj\Debug\SUDUKU-v2_MarkupCompile.cache
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\obj\Debug\SUDUKU-v2.g.resources
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\obj\Debug\SUDUKU_v2.Resources.resources
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v11\SUDUKU-v2\obj\Debug\SUDUKU-v2.vbproj.GenerateResource.Cache
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe.config
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\SUDUKU-v2.exe
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\SUDUKU-v2.xml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\SUDUKU-v2.pdb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\bin\Debug\SUDUKU-v2.pdb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\bin\Debug\SUDUKU-v2.xml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\Game.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\halloffame.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\help.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\MainWindow.baml
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\Game.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\halloffame.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\help.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\MainWindow.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\Application.g.vb
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\SUDUKU-v2_MarkupCompile.cache
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\SUDUKU-v2.g.resources
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\SUDUKU_v2.Resources.resources
+V:\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\SUDUKU-v2.vbproj.GenerateResource.Cache
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe.config
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\SUDUKU-v2.exe
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\SUDUKU-v2.xml
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\SUDUKU-v2.pdb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\bin\Debug\SUDUKU-v2.exe
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\bin\Debug\SUDUKU-v2.pdb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\bin\Debug\SUDUKU-v2.xml
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\Game.baml
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\halloffame.baml
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\help.baml
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\MainWindow.baml
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\Game.g.vb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\halloffame.g.vb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\help.g.vb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\MainWindow.g.vb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\Application.g.vb
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\SUDUKU-v2_MarkupCompile.cache
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\SUDUKU-v2.g.resources
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\SUDUKU_v2.Resources.resources
+C:\Users\usha\Desktop\Dropbox\פרויקט סיום תכנות ובסיסי נתונים\SUDUKU-v12\SUDUKU-v2\obj\Debug\SUDUKU-v2.vbproj.GenerateResource.Cache
