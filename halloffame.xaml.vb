@@ -8,7 +8,7 @@ Public Class HallofFame
 
 
     Public Sub HallofFame_Loaded(sender As Object, e As RoutedEventArgs) Handles Me.Loaded
-        Dim ds = mysql.sqlQueryToDataSet("select * from " & MainWindow.getlevel & " order by pTime Desc") 'לצורך הזנת משפטי שליפה 
+        Dim ds = mysql.sqlQueryToDataSet("select * from " & MainWindow.getlevel & " order by pTime Desc")  
         lblFame.Content &= vbCrLf
         For x As Integer = 0 To ds.Tables(0).Rows.Count() - 1
             lblFame.Content &= ds.Tables(0).Rows(x)(1).ToString() & "                                  " & ds.Tables(0).Rows(x)(2).ToString() & ""
