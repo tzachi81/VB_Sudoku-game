@@ -1,7 +1,6 @@
-﻿Imports System.Windows.Threading 'אינסטנס בשביל הטיימר
+﻿Imports System.Windows.Threading 
 Imports System.Data
 Public Class Game
-    '********טיפול בטיימר**************
     Dim timer As New DispatcherTimer
     Dim timeCounter As Integer = 0
     Public Shared timeScore As Integer
@@ -9,9 +8,9 @@ Public Class Game
     Public Shared mins As Integer
     Public Shared secs As Integer
     Sub timershow()
-        hrs = Int((timeCounter \ 3600)) 'לחישוב מונה השעוצ
-        mins = (timeCounter - (hrs * 3600)) \ 60 'לחישוב מונה הדקות
-        secs = timeCounter Mod 60 'לחיושב מונה השניות
+        hrs = Int((timeCounter \ 3600)) 
+        mins = (timeCounter - (hrs * 3600)) \ 60 
+        secs = timeCounter Mod 60 
         Dim hrsStr As String = hrs
         Dim minsStr As String = mins
         Dim secsStr As String = secs
@@ -32,12 +31,8 @@ Public Class Game
         lblTimer.Content = "00:00:00"
         timeCounter = 0
     End Sub
-    '******************************************************
-
-    '****************חלק א' - עיצוב הלוח*****************
-    '******************************************************
-
-    '*******טיפול בהקלדת תו השונה מספרה ,במקרה של הקלדת הספרה  אפס או רווח************
+  
+    'Board Design
     Private Sub TextChange(sender As Object, e As TextChangedEventArgs)
         If IsNumeric(sender.text) <> True Then
             sender.text = Nothing
@@ -46,37 +41,32 @@ Public Class Game
         End If
     End Sub
 
-    '*****הגדרת משתנים ראשיים******
-    Dim cell(8, 8) As TextBox  'הגדרת תיבות טקסט שנציב במטריצה (גלובלית), 9 על 9 של טקסטבוקסים 
-    Dim grid(8, 8) As String 'הגדרת מטריצה 'פיקטיבית' שעליה נבצע את ההשוואה למטריצה המקורית והבדיקות של לוח המשחק כולל סימון טעויות באדום וכו'
-    Dim redorblack As Boolean = False 'הגדרת משתנה בוליאני שיעזור לנו לצבוע ספרה לא נכונה שהוקלדה 
+    'Matriz initialization
+    Dim cell(8, 8) As TextBox   
+    Dim grid(8, 8) As String '
+    Dim redorblack As Boolean = False  
     Public Shared solver As Boolean = False
 
-
-    '*************************************************************
-    '******כאן נטפל בעיצוב לוח משחק חדש בעת "טעינת" לוח משחק*****
-    '*************************************************************
+    'Create NNew board game
     Private Sub Window_Loaded(ByVal sender As System.Object, ByVal e As System.Windows.RoutedEventArgs) Handles MyBase.Loaded
         resetTimer()
-        timer.Interval = TimeSpan.FromMilliseconds(1000) 'מחזור שעון בן שניה אחת
+        timer.Interval = TimeSpan.FromMilliseconds(1000) 
         AddHandler timer.Tick, AddressOf timershow
         timer.Start()
-        ' ניצור ונעצב  את מטריצת הטקסטבוקסים עבור כל אחד מהתאים שהגדרנו במשתנה CELL
         For x As Integer = 0 To 8
             For y As Integer = 0 To 8
-                '>>>  הגדרות בסיס לעיצוב תוכן התאים<<<
-                cell(x, y) = New TextBox 'הגדרת סוג תא במטריצה כאובייקט  טקסטבוקס
-                cell(x, y).Text = Nothing  'איפוס טקסטבוקס
-                cell(x, y).Width = 20 'הגבלת רוחב בפיקלסים
-                cell(x, y).Height = 20 'הגבלת גובה בפיקסלים
-                cell(x, y).MaxLength = 1 'הגבלה לתו בודד בכל טקסטבוקס
-                cell(x, y).TextAlignment = TextAlignment.Center 'מרכוז התו הנכתב בתא
-                cell(x, y).FontWeight = FontWeights.Bold 'תו יוצג כמודגש
-                Canvas.SetTop(cell(x, y), x * 20) ' קביעת המרחק בין כל תא ותא
+        'cell design
+                cell(x, y) = New TextBox 
+                cell(x, y).Text = Nothing  
+                cell(x, y).Width = 20 
+                cell(x, y).Height = 20 
+                cell(x, y).MaxLength = 1 
+                cell(x, y).TextAlignment = TextAlignment.Center 
+                cell(x, y).FontWeight = FontWeights.Bold 
+                Canvas.SetTop(cell(x, y), x * 20) 
                 Canvas.SetLeft(cell(x, y), y * 20)
 
-                '*****************************************************************************************************
-                'קביעת מיקום המרווחים לשם יצירת 9 מטריצות 'קטנות' בגודל 3 על 3 כל אחת
+            
                 If x > 2 Then
                     Canvas.SetTop(cell(x, y), Canvas.GetTop(cell(x, y)) + 5)
                 End If
@@ -89,28 +79,24 @@ Public Class Game
                 If y > 5 Then
                     Canvas.SetLeft(cell(x, y), Canvas.GetLeft(cell(x, y)) + 5)
                 End If
-                'הצגת האובייקט טקסטבוקס על תכונותיו, במסך
                 AddHandler cell(x, y).TextChanged, AddressOf TextChange
                 board.Children.Add(cell(x, y))
             Next
-        Next '<<<עד כאן הצבת תיבות הטקסט על גבי המסך
+        Next 
 
-        '****************יצירת לוח משחק ************
-        '*****בחלק זה השתמשנו בפונקציית הפתרון האוטומטי   '(SOLVE) 
+    'use "auto solve" function 
         solver = True
-        'קודם כל כל הלוח מתמלא במספרים כמו שעושה השגרה של כפתור 'פתרון אוטומטי'
         For x As Integer = 0 To 8
             For y As Integer = 0 To 8
                 grid(x, y) = cell(x, y).Text
             Next
         Next
-        solve(0, 0) ' זה חשוב - להתחיל לבדוק תמיד מהתא הראשון במטריצה!!
+        solve(0, 0) !!
         For x = 0 To 8
             For y = 0 To 8
                 cell(x, y).Text = grid(x, y)
-                cell(x, y).IsReadOnly = True 'שלילת האפשרות לשכתוב התאים בלוח
+                cell(x, y).IsReadOnly = True 
                 cell(x, y).Background = Brushes.LightGray
-                'ורק אחרי שהלוח מלא בערכים - תאים רנדומליים הופכים לריקים ובעלי אפשרות כתיבה, כמובן, כך:
                 ' Dim rndX As Integer = rndMinmax(0, 8)
                 '  Dim rndY As Integer = rndMinmax(0, 8)
                 ' cell(rndX, rndY).Text = Nothing
@@ -123,45 +109,36 @@ Public Class Game
             Next
         Next
         solver = False
-        '*****עד כאן יצירת לוח המשחק******
     End Sub
 
-    'פונקציה להגרלת מספרים אקראיים לפי הגדרה - נשתמש בזה בהתאם לרמת הקושי שנבחרה
-    Function rndMinmax(min As Integer, max As Integer) As Integer
+'Randomize numbers onto the board
+Function rndMinmax(min As Integer, max As Integer) As Integer
         Randomize()
         Dim num As Integer = Int((max - min + 1) * Rnd()) + min
         Return num
     End Function
 
-    '********************************סוף חלק א' - עיצוב**************************
-    '*****************************************************************************************
+'checker functions
 
-    '******* חלק ב' - בדיקת לוח המשחק מכפילויות, טיפול בכפתור 'נקה לוח משחק'  *******
-    '************פונקציות בדיקה לכפילויות מספרים**********
-    '***השתמשנו בשלוש הפונקציות הבאות עם משתנה בוליאני מכיוון שערך התא יענה לנו על אחד מהשניים:
-    '****המספר כפול או שהמספר בעל מופע יחיד<<<<:
-
-    '********* פונקציה זו בודקת  אם יש מספר כפול בכל אחת מהשורות check_rows******
-    Function check_rows(ByVal xVal, ByVal yVal) As Boolean
-        Dim noclash As Boolean = True '<<< המשתנה הזה נתון בכל אחת מהפונקציות בכוונה כדי שהפונקציה האחרת לא תשנה אותו בטעות עבור הפונקציה הקודמת לה
+     Function check_rows(ByVal xVal, ByVal yVal) As Boolean
+        Dim noclash As Boolean = True 
         For x As Integer = 0 To 8
             If grid(x, yVal) <> Nothing Then
-                If x <> xVal Then 'השוואה עם כל ערך 'שורתי' בנפרד
+                If x <> xVal Then 
                     If grid(x, yVal) = grid(xVal, yVal) Then
                         noclash = False
                     End If
                 End If
             End If
         Next
-        Return noclash '<-- מחזיר את התשובה לשאלה: האם המספר כפול במטריצה או לא
+        Return noclash 
     End Function
 
-    '*****פונקציה זו בודקת  אם יש מספר כפול בכל אחד מהטורים check_columns*****
     Function check_columns(ByVal xVal, ByVal yVal) As Boolean
         Dim noclash As Boolean = True
         For y As Integer = 0 To 8
             If grid(xVal, y) <> Nothing Then
-                If y <> yVal Then 'השוואה עם כל ערך 'טורי' בנפרד
+                If y <> yVal Then
                     If grid(xVal, y) = grid(xVal, yVal) Then
                         noclash = False
                     End If
@@ -171,12 +148,11 @@ Public Class Game
         Return noclash
     End Function
 
-    '********* פונקציה זו בודקת כפילות בכל אחת מהמטריצות הקטנות: (3 על 3) בלוח המשחק - שימו לב לחלוקה הראשונית במשפטי 'אם check_box******
     Function check_box(ByVal xVal, ByVal yVal) As Boolean
         Dim noclash As Boolean = True
-        Dim xstart As Integer 'לבדוק אפשרות הצבת הערך 0 למשתנה
+        Dim xstart As Integer 
         Dim ystart As Integer
-        'שימו לב לתנאים עם ההפרדות בין מטריצה למטריצה - דומה לחלק א' של התוכנית
+
         If xVal < 3 Then
             xstart = 0
         ElseIf xVal < 6 Then
@@ -195,7 +171,7 @@ Public Class Game
         For y As Integer = ystart To (ystart + 2)
             For x As Integer = xstart To (xstart + 2)
                 If grid(x, y) <> Nothing Then
-                    If Not (x = xVal And y = yVal) Then ' נפתר הודות למדריך ביוטיוב:  בהתחלה לא התנינו על דרך השלילה והבדיקה לא עבדה כלל!!!
+                    If Not (x = xVal And y = yVal) Then
                         If grid(x, y) = grid(xVal, yVal) Then
                             noclash = False
                         End If
@@ -206,23 +182,20 @@ Public Class Game
         Return noclash
     End Function
 
-    '***************פונקצית עזר לכפתור פתרון אוטומטי*****************
 
     Function solve(ByVal x As Integer, ByVal y As Integer) As Boolean
-        'ניצור משתנה עבור כל מספר שייבדק:
         Dim numbers As Integer = 1
-        'המתודה: אם התא ריק, אז תמלא אותו במספר הבא כל עוד הוא לא יוצר התנגשות עם מספר דומה בשורה, טור או מטריצה קטנה
         If grid(x, y) = Nothing Then
             Do
-                grid(x, y) = CStr(numbers) ' המרה לסוג מחרוזת CStr: ' 
-                If check_rows(x, y) Then ' אם אין כפילות בשורות
-                    If check_columns(x, y) Then  ' אם אין כפילות בעמודות
-                        If check_box(x, y) Then ' אם אין כפילות במטריצות הקטנות
-                            y = y + 1 ' עבור לטור הבא
-                            If y = 9 Then ' אבל אם הגעת לטור העשירי, כלומר השורה הבאה
-                                y = 0 ' אפס את מונה הטור , תתחיל מטור מספר אחד
-                                x = x + 1 '...של השורה הבאה( קידום מונה השורות)
-                                If x = 9 Then Return True 'שורה זו מורה לנו על סוף המטריצה
+                grid(x, y) = CStr(numbers) 
+                If check_rows(x, y) Then
+                    If check_columns(x, y) Then  
+                        If check_box(x, y) Then 
+                            y = y + 1 
+                            If y = 9 Then 
+                                y = 0 
+                                x = x + 1 
+                                If x = 9 Then Return True 
                             End If
                             If solve(x, y) Then Return True
                             y = y - 1
@@ -234,7 +207,6 @@ Public Class Game
                     End If
                 End If
                 numbers = numbers + 1
-                'התנאי: בצע הבדיקות עד שהצובר יגיע לערך 10 - מכיוון שלא ניתן להציב מספר מעל  9 בסודוקו
             Loop Until numbers = 10
             grid(x, y) = Nothing
             Return False
@@ -249,27 +221,21 @@ Public Class Game
         End If
     End Function
 
-    '<****************************>
-    '<*****סוף פונקציות בדיקה****>
-    '<****************************>
+' Board Buttons
 
-    '********************************
-    '********חלק ג' - כפתורים********
-    '********************************
-
-    '**************כפתור הצגת הוראות המשחק************
-    Private Sub Button2_Click_1(sender As Object, e As EventArgs) Handles btnHelp.Click
+'show_instructions button
+Private Sub Button2_Click_1(sender As Object, e As EventArgs) Handles btnHelp.Click
         Dim hlp As New help
         hlp.Show()
     End Sub
 
-    '****************כפתור נקה לוח'****************' 
-    Private Sub btnClear_Click(sender As Object, e As EventArgs) Handles btnClear.Click
+'clean board button
+Private Sub btnClear_Click(sender As Object, e As EventArgs) Handles btnClear.Click
         Dim rushure As MsgBoxResult = MessageBox.Show("Do you really want to clear the Board?", "clear", MessageBoxButton.YesNo, MessageBoxImage.Question)
-        If rushure = vbYes Then 'פעולת ניקוי הלוח מתבצעת באם המשתמש ענה בחיוב
+        If rushure = vbYes Then 
             For x As Integer = 0 To 8
                 For y As Integer = 0 To 8
-                    If cell(x, y).IsReadOnly = False Then ' כדי להמנע ממחיקת המספרים הקבועים על גבי  הלוח
+                    If cell(x, y).IsReadOnly = False Then 
                         cell(x, y).Text = Nothing
                         cell(x, y).Background = Brushes.White
                     End If
@@ -278,8 +244,7 @@ Public Class Game
         End If
     End Sub
 
-    '*******************כפתור הצג פתרון****************
-    'משתמש בפונקציית  SOLVER שממלאת את המספרים הנותרים / החסרים
+'show solution button
     Private Sub btnSolve_Click(sender As Object, e As RoutedEventArgs) Handles btnSolve.Click
         solver = True
         For x As Integer = 0 To 8
@@ -287,7 +252,7 @@ Public Class Game
                 grid(x, y) = cell(x, y).Text
             Next
         Next
-        solve(0, 0) 'להתחיל (לבדוק ו-) לפתור מהתא הראשון במטריצה
+        solve(0, 0) 
         For x = 0 To 8
             For y = 0 To 8
                 cell(x, y).Text = grid(x, y)
@@ -296,17 +261,16 @@ Public Class Game
         Next
         solver = False
 
-        'העלמת כל כפתורי הלוח
         btnClear.Visibility = Windows.Visibility.Hidden
         btnCheck.Visibility = Windows.Visibility.Hidden
         btnSolve.Visibility = Windows.Visibility.Hidden
-        'הצגת ניקוד
+
         lblScore.Visibility = Windows.Visibility.Visible
         lblScore.Content = "You used the SOLVE button!" & vbCrLf & "Your get NO points"
         timer.Stop()
-        'להוסיף כאן עדכון של DB***************
     End Sub
-    '**************כפתור יציאה מהתכנית************
+
+'Exit button
     Private Sub btnExit_Click(sender As Object, e As RoutedEventArgs) Handles btnMenu.Click
         Dim rushure As MsgBoxResult = MessageBox.Show("Are you sure you want to EXIT to main menu?", "Exit", MessageBoxButton.YesNo, MessageBoxImage.Question)
         If rushure = vbYes Then
@@ -316,17 +280,12 @@ Public Class Game
         End If
     End Sub
 
-    '******************************************************************************************
-    'btnCheck_click1  השגרה
-    'בודקת קודם כל אם היה שינוי בתא מסוים- ראו השוואה עם משתנה 'גריד'. אם המספר הוא כפול בתוך שורה ו/או בעמודה - ייצבע באדום
-    'השגרה מתבססת על שלוש הפונקציות הבאות שנמצאות מעלה והן:
-    'check_rows; check_columns;check_box
-    '******************************************************************************************
+    'btnCheck_click1     
     Private Sub btnCheck_Click1(sender As Object, e As RoutedEventArgs) Handles btnCheck.Click
         For x = 0 To 8
             For y = 0 To 8
                 grid(x, y) = cell(x, y).Text
-                cell(x, y).Foreground = Brushes.Black  ' קביעת צבע הפונט כ-שחור, במצב ברירת מחדל
+                cell(x, y).Foreground = Brushes.Black  
                 lblScore.Visibility = Windows.Visibility.Hidden
             Next
         Next
@@ -356,12 +315,12 @@ Public Class Game
             MsgBox("fill in the correct numbers")
         End If
 
-        '*************טיפול בעדכון בסיס הנתונים בטבלה הרלבנטית**************
-        Dim sqlUpdate As String 'מחרוזת להשמת משפט העדכון הרלבנטי
-        Dim dsName As DataSet 'קריאה לרשומה בטבלה שמחזירה שם שחקן לפי תנאי
-        Dim dsMaxTime As DataSet 'קריאה לרשומה בטבלה שמחזירה זמן מירבי ששוחק  לפי תנאי
-        Dim dsId As DataSet 'קריאה לרשומה בטבלה שמחזירה  מספר רשומה של שם השחקן 
-        Dim dsTimebyid As DataSet ' זמן מקבל את התוצאה לפי ערך הID
+'DB updates
+        Dim sqlUpdate As String 
+        Dim dsName As DataSet 
+        Dim dsMaxTime As DataSet 
+        Dim dsId As DataSet  
+        Dim dsTimebyid As DataSet 
         Dim mysql As New DB_IntegrationMethods
 
         dsName = mysql.sqlQueryToDataSet("select count (PName) from " & MainWindow.getlevel & " where PName = '" & MainWindow.playerName & "'")
